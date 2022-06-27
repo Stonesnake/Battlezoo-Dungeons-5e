@@ -1,0 +1,34 @@
+{
+  "name": "battlezoo-ancestries-dungeons-dnd5e",
+  "title": "Battlezoo Ancestries: Dungeons by Roll for Combat",
+  "description": "Now, you are the dungeon!",
+  "author": "Roll for Combat",
+  "url": "http://www.battlezoo.com",
+  "version": "1.0",
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "9",
+  "packs": [
+    {
+      "label": "Battlezoo Ancestries: Dungeons - Racial Features",
+      "type": "Item",
+      "name": "dnd5e-battlezoo-dungeon-ancestry",
+      "path": "packs/dnd5e-battlezoo-dungeon-ancestry.db",
+      "system": "dnd5e",
+      "package": "battlezoo-ancestries-dungeon-dnd5e",
+      "private": false
+    },
+    {
+      "label": "Battlezoo Ancestries: Dungeons - Feats",
+      "type": "Item",
+      "name": "dnd5e-battlezoo-dungeon-feats",
+      "path": "packs/dnd5e-battlezoo-dungeon-feats.db",
+      "system": "dnd5e",
+      "package": "battlezoo-ancestries-dungeon-dnd5e",
+      "private": false
+    }
+  ],
+  "system": [
+    "dnd5e"
+  ],
+  "minimumSystemVersion": "1.5.7"
+}
