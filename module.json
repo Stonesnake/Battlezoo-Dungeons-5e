@@ -30,5 +30,8 @@
   "system": [
     "dnd5e"
   ],
-  "minimumSystemVersion": "1.5.7"
+  "minimumSystemVersion": "1.5.7",
+  "url": "https://github.com/Stonesnake/Battlezoo-Dungeons-5e",
+  "manifest": "https://raw.githubusercontent.com/Stonesnake/Battlezoo-Dungeons-5e/master/module.json",
+  "download": "https://github.com/Stonesnake/Battlezoo-Dungeons-5e/archive/refs/heads/main.zip"
 }
