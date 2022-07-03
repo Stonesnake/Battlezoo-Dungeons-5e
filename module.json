@@ -5,7 +5,7 @@
   "author": "Roll for Combat",
   "url": "http://www.battlezoo.com",
   "version": "1.0",
-  "minimumCoreVersion": "0.8.9",
+  "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
   "packs": [
     {
